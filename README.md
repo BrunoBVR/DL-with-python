@@ -21,3 +21,4 @@ Implementing from DL With Python book (by François Chollet)
 ## Chapter 8:
 
 * 8.2 [Training a convnet from scratch on a small dataset](2ndEd_8p2.ipynb)
+* 8.3 [Pretrained model](2ndEd_8p3.ipynb)
